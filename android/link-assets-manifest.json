@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/doves.ttf",
+      "sha1": "122d3b418b4ea606f6c951de83374b1d8b472684"
+    },
+    {
+      "path": "assets/fonts/KGLegoHouse.ttf",
+      "sha1": "d316e96fddf0b223b9bf45a959d0e704f26f83cc"
+    },
+    {
+      "path": "assets/fonts/Textbook-Charlie.ttf",
+      "sha1": "67f5bc6d7a74b368407fa6619df6a0f64aca821e"
+    },
+    {
+      "path": "assets/models/dipan3.glb",
+      "sha1": "afd4398d260087302248c874d1748cb0e10eb0bf"
+    },
+    {
+      "path": "assets/models/kayu.jpg",
+      "sha1": "e8d108217ded6775e82a554999efb5421ee546b0"
+    },
+    {
+      "path": "assets/models/kursi.glb",
+      "sha1": "c302703fcf620495c51bec3918cbf23561f67b9d"
+    },
+    {
+      "path": "assets/models/materialdipan.png",
+      "sha1": "4ca5ec7b41daa0a525722e4b63d81da1d1a2826c"
+    }
+  ]
+}

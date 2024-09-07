@@ -14,6 +14,13 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-MyNewProject-MyNewProjectTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-MyNewProject-MyNewProjectTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		7F81743F03244B889E210F62 /* doves.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4A7EBB3D821842029947676E /* doves.ttf */; };
+		2B2855090656424E9E9AA791 /* KGLegoHouse.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FC00104D620247ACAEF82E99 /* KGLegoHouse.ttf */; };
+		9D9522728FE9414298D71976 /* Textbook-Charlie.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8623E82510D94FDC92F7ACEB /* Textbook-Charlie.ttf */; };
+		3B0D2CFA97BC4B2586C34CA1 /* dipan3.glb in Resources */ = {isa = PBXBuildFile; fileRef = 39A1C6D1477E4250AC8F6F80 /* dipan3.glb */; };
+		C3F8402A6D9047ED8252E515 /* kayu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 338369FEC4464401B79AC3E0 /* kayu.jpg */; };
+		E6972F86A83B4669B5ECC4F3 /* kursi.glb in Resources */ = {isa = PBXBuildFile; fileRef = 3212D51427DE4C57AD0ED659 /* kursi.glb */; };
+		439E2067FDD64C25B2D5C9C4 /* materialdipan.png in Resources */ = {isa = PBXBuildFile; fileRef = 6652D278668B41EBA7888A9F /* materialdipan.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +43,7 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = MyNewProject/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = MyNewProject/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = MyNewProject/main.m; sourceTree = "<group>"; };
-	    13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = MyNewProject/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = MyNewProject/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-MyNewProject-MyNewProjectTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MyNewProject-MyNewProjectTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-MyNewProject.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyNewProject.debug.xcconfig"; path = "Target Support Files/Pods-MyNewProject/Pods-MyNewProject.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-MyNewProject.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyNewProject.release.xcconfig"; path = "Target Support Files/Pods-MyNewProject/Pods-MyNewProject.release.xcconfig"; sourceTree = "<group>"; };
@@ -45,6 +52,13 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = MyNewProject/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-MyNewProject-MyNewProjectTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyNewProject-MyNewProjectTests.release.xcconfig"; path = "Target Support Files/Pods-MyNewProject-MyNewProjectTests/Pods-MyNewProject-MyNewProjectTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		4A7EBB3D821842029947676E /* doves.ttf */ = {isa = PBXFileReference; name = "doves.ttf"; path = "../assets/fonts/doves.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FC00104D620247ACAEF82E99 /* KGLegoHouse.ttf */ = {isa = PBXFileReference; name = "KGLegoHouse.ttf"; path = "../assets/fonts/KGLegoHouse.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8623E82510D94FDC92F7ACEB /* Textbook-Charlie.ttf */ = {isa = PBXFileReference; name = "Textbook-Charlie.ttf"; path = "../assets/fonts/Textbook-Charlie.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		39A1C6D1477E4250AC8F6F80 /* dipan3.glb */ = {isa = PBXFileReference; name = "dipan3.glb"; path = "../assets/models/dipan3.glb"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		338369FEC4464401B79AC3E0 /* kayu.jpg */ = {isa = PBXFileReference; name = "kayu.jpg"; path = "../assets/models/kayu.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3212D51427DE4C57AD0ED659 /* kursi.glb */ = {isa = PBXFileReference; name = "kursi.glb"; path = "../assets/models/kursi.glb"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6652D278668B41EBA7888A9F /* materialdipan.png */ = {isa = PBXFileReference; name = "materialdipan.png"; path = "../assets/models/materialdipan.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +138,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				F3D67D80174D4677842FAFF9 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -149,6 +164,21 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		F3D67D80174D4677842FAFF9 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				4A7EBB3D821842029947676E /* doves.ttf */,
+				FC00104D620247ACAEF82E99 /* KGLegoHouse.ttf */,
+				8623E82510D94FDC92F7ACEB /* Textbook-Charlie.ttf */,
+				39A1C6D1477E4250AC8F6F80 /* dipan3.glb */,
+				338369FEC4464401B79AC3E0 /* kayu.jpg */,
+				3212D51427DE4C57AD0ED659 /* kursi.glb */,
+				6652D278668B41EBA7888A9F /* materialdipan.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -245,6 +275,13 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				7F81743F03244B889E210F62 /* doves.ttf in Resources */,
+				2B2855090656424E9E9AA791 /* KGLegoHouse.ttf in Resources */,
+				9D9522728FE9414298D71976 /* Textbook-Charlie.ttf in Resources */,
+				3B0D2CFA97BC4B2586C34CA1 /* dipan3.glb in Resources */,
+				C3F8402A6D9047ED8252E515 /* kayu.jpg in Resources */,
+				E6972F86A83B4669B5ECC4F3 /* kursi.glb in Resources */,
+				439E2067FDD64C25B2D5C9C4 /* materialdipan.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
